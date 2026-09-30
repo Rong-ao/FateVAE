@@ -1,0 +1,9 @@
+dim,mapped_fate,corr,top_regulons,known_TF_hits,top_genes,known_marker_gene_hits
+0,unassigned,,"E_(spl)m5-HLH, CG11085, ato, Rx, CrebA, eve, ac, E_(spl)mbeta-HLH, E_(spl)m3-HLH, E_(spl)m8-HLH",,"E(spl)m4-BFM, tinc, fred, E(spl)m8-HLH, E(spl)m7-HLH, Ace, CG12911, E(spl)m5-HLH, sog, Syn, CG5953, ato, WDY, CG17839, spri",
+1,unassigned,,"slp1, Blimp-1, E_(spl)m3-HLH, ham, acj6, CG5641, E_(spl)m7-HLH, TFAM, Sox100B, Mitf",,"CG5953, sog, spri, Xrp1, E(spl)m7-HLH, CrebA, neur, CG15431, Dscam4, rau, bun, SNF4Agamma, CG13907, CG3726, chn",
+2,unassigned,,"ham, SREBP, nub, NK7.1, Sry-delta, Mitf, achi, Dll, gsb, Nf-YC",,"sog, CG42342, bun, mamo, AdamTS-A, Nrg, kirre, l(3)L1231, ftz-f1, Rbfox1, trol, CG5953, Mrtf, psq, stx",
+3,unassigned,,"Max, Sirt6, pho, Poxn, en, Rx, Dr, Myb, nub, GATAd",,"sog, CG5953, AdamTS-A, kirre, CG15431, CG17839, Myo81F, crp, MFS17, Xrp1, Sh, CG42340, chn, Con, spri",
+4,A8,0.18447458757794924,"Sox100B, NfI, Sox14, mid, Poxn, Kah, Mef2, acj6, da, achi",,"AdamTS-A, mamo, kirre, Rbfox1, trol, sog, EcR, hth, Fas2, Tis11, Con, RhoGAP18B, CG5953, bun, Hs6st",
+5,A10,0.2735921140928963,"mid, cad, SoxN, Sox21b, acj6, al, Jra, eve, Atf3, byn",cad,"sog, HGTX, CG5953, l(3)L1231, CG42674, spri, Nrg, CG42342, kibra, dnc, olf413, bun, CG15431, Xrp1, zfh2",
+6,A9p1,0.2766368533180128,"CG11085, Sirt6, srp, CrebA, E_(spl)m3-HLH, Pdp1, kay, pdm2, ato, gcm",,"CG5953, sog, spri, Xrp1, CG17839, neur, E(spl)m7-HLH, chn, bun, shn, Myo81F, hiw, CG3726, tou, SNF4Agamma",
+7,A9p2,0.353138841652627,"Blimp-1, Dll, nub, ato, CrebA, mid, cad, grh, ac, Dr",,"CrebA, Pde9, Hr4, kn, CG10936, sog, spri, Dscam4, acj6, CG42342, shn, l(3)L1231, CG5953, stx, CG13907",

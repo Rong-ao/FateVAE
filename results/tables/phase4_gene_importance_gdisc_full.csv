@@ -1,0 +1,7 @@
+dim,fate,top_decoder_genes,logit_spread
+0,A9p1,"E(spl)m6-BFM, vkg, ct, Col4a1, miple1, uncNacbeta, CadN, Ama, RpS11, Cyp6d5, Ugt317A1, Traf4, CG12768, twi, Pxn",0.781383216381073
+1,A10,"cad, Dll, caup, HGTX, drm, Ets21C, Doc3, ara, TfAP-2, CG9727, E5, CG4496, ems, CG7101, cbt",0.5700461864471436
+2,A8,"brk, magu, oc, hth, Cpr49Ac, SoxN, 18w, gsb-n, Cph, SPARC, ths, rgn, sano, CG9593, uncNacbeta",0.5870534181594849
+3,?,"Obp99a, Sp1, ImpE2, Hr4, dpn, Phk-3, kek1, CG2852, retn, CG12164, Tet, ed, Hsp27, ab, bnl",0.33399492502212524
+4,A9p2,"CG9593, uncNacbeta, Act57B, SPARC, Act87E, Pxn, twi, egr, side, Mes2, ct, nvy, ftz-f1, Plod, Tis11",0.3841385245323181
+5,?,"br, Inx2, Sema2b, Ae2, CG46385, Msp300, heph, mfas, SKIP, CG33229, shot, chn, Prosap, pio, CG5953",0.462515264749527

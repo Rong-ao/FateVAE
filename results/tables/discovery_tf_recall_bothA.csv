@@ -1,0 +1,15 @@
+fate,TF,in_regulons,attention_rank
+A8,abd-A,True,127
+A8,tsh,False,999
+A9p1,btl,False,999
+A9p1,Abd-B,True,229
+A9p1,hh,False,999
+A9p1,Dr,True,235
+A9p1,dpp,False,999
+A10,cad,True,44
+A10,Dll,True,160
+A9p2,bnl,True,117
+A9p2,en,True,121
+A9p2,Delta,False,999
+A9p2,dac,False,999
+A9p2,hh,False,999

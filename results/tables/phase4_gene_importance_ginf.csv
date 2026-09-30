@@ -1,0 +1,5 @@
+dim,fate,top_decoder_genes,logit_spread
+0,A10,"abd-A, tsh, vg, vir-1, vito, vkg, vn, vnc, wash, wb, unc-119, unc-4, uncNacbeta, up, upd1",0.4338940978050232
+1,A9p1,"trh, DIP-beta, spz5, rst, CG13989, CG4629, dpp, bnl, CG2224, dnt, hh, Dr, hbn, ymp, acj6",0.30931153893470764
+2,A9p2,"dpr3, scaf, Delta, laza, CG7991, CG14321, MFS15, en, CG18135, del, pnr, Tsp86D, CDase, dac, CG33181",0.12872326374053955
+3,A8,"SoYb, esn, up, pxb, tutl, zfh2, Pax, Abd-B, CG14984, sif, dtn, dimm, HGTX, bab1, cad",0.2941911220550537

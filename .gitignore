@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+results/models/
+data_archive/
+*.h5ad
+*.loom
+*.h5
+*.tar
+*.npz
+logs/
+.DS_Store

@@ -1,0 +1,9 @@
+dim,mapped_fate,corr,top_regulons,known_TF_hits,top_genes,known_marker_gene_hits
+0,A9p1,0.29595942489600385,"Doc1, CG12236, eyg, CG16779, gcm, Awh, E(spl)mdelta-HLH, ato, Poxn, salm",,"dpy, bun, shot, spen, Msp300, heca, kay, kmr, lola, br, Ten-a, ed, aqz, Gadd45, puc",
+1,unassigned,,"E(spl)mdelta-HLH, nvy, Mef2, HDAC1, gsb, ato, E(spl)m8-HLH, tx, E(spl)mgamma-HLH, Strn-Mlck",,"dpy, shot, bun, spen, heca, Msp300, ed, lola, puc, kay, br, aqz, kmr, Gadd45, Ten-a",
+2,unassigned,,"arm, Hsc70-3, CHES-1-like, Poxm, brk, Eip78C, 14-3-3zeta, Hsf, vvl, Lam",,"shot, spen, Msp300, bun, heca, dpy, br, lola, Ten-a, aqz, puc, ed, kmr, kay, heph",
+3,A9p2,0.288460143331489,"odd, gsb-n, Poxn, CHES-1-like, H15, so, Doc1, brk, Stat92E, PyK",,"dpy, spen, Msp300, shot, heca, bun, ed, br, kmr, lola, Fas3, Ten-a, aqz, heph, nw",
+4,A8,0.13232486857999198,"H15, CG34325, Ets21C, dar1, oc, Atf3, Ets98B, Sox21b, mago, tup",,"shot, Msp300, heca, bun, dpy, spen, kmr, lola, aqz, puc, Fas3, Ten-a, Ddc, nw, ed",
+5,unassigned,,"Hsf, Eip78C, Dp, RfC4, RfC38, E(spl)mgamma-HLH, Chrac-14, Mef2, knrl, kni",,"shot, Msp300, dpy, heca, spen, bun, lola, Ten-a, br, aqz, ed, kmr, Fas3, nw, puc",
+6,unassigned,,"Doc1, Doc2, RfC4, ato, RfC38, arm, Dp, HDAC1, sm, Chrac-14",,"dpy, shot, bun, heca, Msp300, spen, lola, kmr, puc, aqz, kay, nw, Fas3, br, Ten-a",
+7,A10,0.22089949930585795,"odd, salr, toe, eyg, Rab2, CG34325, Awh, Eip78C, lbl, oc",,"dpy, shot, bun, Msp300, spen, heca, br, aqz, Fas3, puc, Argk1, lola, kmr, Ddc, ed",

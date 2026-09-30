@@ -1,0 +1,5 @@
+dim,mapped_fate,corr,top_regulons,known_TF_hits,top_genes,known_marker_gene_hits
+0,A10,0.0035061789512824382,"E_(spl)m3-HLH, E_(spl)m7-HLH, E_(spl)m5-HLH, ato, CG11085, Su_(H), Rx, grn, ac, E_(spl)m8-HLH",,"CG5953, E(spl)m7-HLH, Xrp1, neur, spri, E(spl)m4-BFM, sog, CG17839, AdamTS-A, rau, SNF4Agamma, chn, ato, GstT4, rut",
+1,A9p2,0.3818484335521745,"Dll, lola, mid, CrebA, nej, SoxN, kay, Blimp-1, E_(spl)m7-HLH, srp",,"sog, spri, CG5953, bun, shn, CrebA, stx, chn, CG42674, dnc, Snoo, jvl, mam, l(3)L1231, CG3726",
+2,A8,0.14750477349543464,"Dr, Mef2, cad, twi, NfI, nub, Sox100B, Blimp-1, Ets96B, Sox14",,"kirre, AdamTS-A, mamo, Pxn, trol, Rbfox1, Hs6st, ct, RhoGAP18B, Con, Fas2, hth, EcR, kn, CG43658",
+3,A9p1,0.04989270211876534,"NK7.1, SREBP, GATAd, prd, Ets96B, bigmax, REPTOR-BP, egg, Mitf, pho",,"sog, CG5953, AdamTS-A, ftz-f1, kirre, CG15431, CG42342, CG17839, lilli, mamo, CadN2, MFS17, Hers, crp, fog",

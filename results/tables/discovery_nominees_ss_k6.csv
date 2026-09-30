@@ -1,0 +1,7 @@
+dim,mapped_fate,corr,top_regulons,known_TF_hits,top_genes,known_marker_gene_hits
+0,A9p2,0.21607141748849604,"fru, lola, br, exd, nej, grh, twi, Sin3A, Mef2, NK7.1",,"CG10962, CG3168, CG44837, CG15822, CG32365, CG13117, CG17778, Fur1, CG4374, CG14830, CG33143, Cad87A, CG32855, Abd-B, Drak",Abd-B
+1,unassigned,,"E_(spl)mbeta-HLH, E_(spl)m3-HLH, E_(spl)m7-HLH, cwo, kay, shn, lola, fru, grh, ttk",,"CadN2, CG17075, EndoA, H15, CG32793, HDAC11, CG42663, Ptr, CG31871, CG44838, Ag5r, CG9003, Raf, bbg, CG31176",
+2,A8,0.08591117541655345,"mid, grh, exd, lola, br, Sin3A, fru, nej, twi, shn",,"CG42346, CG15803, CG42540, Gs2, CG45263, CG33110, CG31140, Cyp4g15, CG1722, CG9411, TotA, CG2528, CG32855, CG34434, CG32572",
+3,A10,0.19423118909694703,"Dll, grh, lola, br, Sin3A, fru, nej, exd, cwo, NK7.1",Dll,"CG15546, CG13272, CG14830, CG11095, CG13643, Best2, CG12535, CG4928, CG32700, CG14960, CG42749, CG15822, CG12065, CG43740, CG5050",
+4,unassigned,,"exd, Max, BEAF-32, grh, br, fru, Sin3A, lola, Sry-delta, nej",,"CG14301, CG42322, Dnah3, CG32855, CG2528, CG13012, CG10405, Appl, CG14431, CG14830, CG17778, CG42540, CG14367, CG3168, CG15431",
+5,A9p1,0.47368131877482683,"nub, crp, Blimp-1, grh, lola, exd, nej, br, shn, Sin3A",,"CG45263, Acp65Aa, CG32855, Abd-B, CG9095, CG34355, CG4660, CG42238, Tmc, CG13643, CG15765, Cad87A, CG15822, CG2861, CG34417",Abd-B

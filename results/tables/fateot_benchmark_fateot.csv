@@ -1,0 +1,2 @@
+method,ARI,NMI,marker_auroc,n_clusters,reg,resolution
+FateOT,0.014503101960807719,0.03420942788385235,0.7174477102248971,18,0.05,0.5

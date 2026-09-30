@@ -1,0 +1,2 @@
+method,tag,ARI,NMI,marker_auroc
+graph_informed,ginf_k30,0.05986384008513485,0.07366105244363787,0.7776893893227909
